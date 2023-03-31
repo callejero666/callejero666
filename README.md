@@ -3,9 +3,7 @@
 
 <h3 align="center">Estudiante de desarrollo de software...</h3>
 
-<p align="center"> 
-<img src="https://www.pexels.com/es-es/foto/cuatro-personas-que-usan-computadoras-portatiles-y-telefonos-inteligentes-3277808/" 
-alt="callejero666" /> </p>
+<p align="center"> <img src="https://media.istockphoto.com/id/877748380/es/foto/hombre-emprendedor-freelancer-se-sienta-en-casa-en-el-sof%C3%A1-mesa-de-centro-aplicaciones.jpg?b=1&s=612x612&w=0&k=20&c=owrjHOYGopUZEwYheYwGwtsIjRQxLjJNyGEcESrAV7A=" style="width:100%;height:auto;" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callejero666" alt="callejero666" /></a> </p>
 
