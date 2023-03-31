@@ -1,7 +1,7 @@
 <h1 align="center">:sunglasses::sunglasses:Hola, soy Rodrigo Reyes :sunglasses::sunglasses:</h1>
 <h3 align="center">Estudiante de desarrollo de software...</h3>
 
-<p align="center"> <img src="https://images.app.goo.gl/Nks2KjZBWZKsiccr9" style="width:100%;heigth:auto;" /> </p>
+<p align="center"> <img src="https://static.acceso360.com/wp-content/uploads/2021/11/public_relationships.jpg" style="width:100%;heigth:auto;" /> </p>
 
 <p align="center"> <a href=" https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github.com/callejero666" alt="callejero666" /> </a> </p>
 
