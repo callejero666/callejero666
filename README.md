@@ -9,8 +9,8 @@
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-reyes-101174255?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btmo0gc%2bhrk2hthtdegekcg%3d%3d " target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in -alt.svg" alt="https://www.linkedin.com/in/rodrigo-reyes-101174255?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btmo0gc%2bhrk2hthtdegekcg%3d%3d" height="30" width ="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rodrigoivan.reyes" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rodrigoivan.reyes" altura="30" ancho ="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-reyes-101174255?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btmo0gc%2bhrk2hthtdegekcg%3d%3d " target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in -alt.svg" alt="https://www.linkedin.com/in/rodrigo-reyes-" height="30" width ="40" /></a>
+<a href="https://www.facebook.com/rodrigoivan.reyes" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rodrigoivan.reyes" altura="30" ancho ="40" /></a>
 </p>
 
 <h3 align="center">Idiomas y herramientas:</h3>
